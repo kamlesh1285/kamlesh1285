@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR-BANNER-LINK" width="100%">
+<img src="https://chatgpt.com/s/m_6a900962d1608191accfb6572e8c1036" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
