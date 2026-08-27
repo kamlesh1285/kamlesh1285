@@ -1,59 +1,86 @@
+<p align="center">
+<img src="YOUR-BANNER-LINK" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
 
-<h3 align="center">B.Tech CSE • IIT Madras BS in Data Science • AI/ML Enthusiast</h3>
+<h3 align="center">
+AI • Full Stack • Data Science
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;DSA+Learner;Open+Source+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full+Stack+Developer;IIT+Madras+BS+Student;DSA+Learner;Building+Real+World+Projects"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kamlesh1285&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=kamlesh1285&label=Profile%20Views&color=00C853&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/kamlesh1285?style=for-the-badge&color=00C853"/>
+
+<img src="https://img.shields.io/github/stars/kamlesh1285?style=for-the-badge&color=00C853"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
-- 🎓 B.Tech CSE @ ABES Engineering College
+<img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🎓 B.Tech CSE — ABES Engineering College
 - 📚 IIT Madras BS in Data Science & Applications
-- 🤖 Learning AI/ML, Deep Learning & Generative AI
-- 💻 Full Stack Developer (React • Next.js • NestJS • FastAPI)
-- 🧩 Solving DSA on LeetCode & CodeChef
-- 🌱 Building projects that solve real-world problems
+- 🤖 AI/ML & Deep Learning Enthusiast
+- 🌱 Currently learning Generative AI
+- 💻 Full Stack Developer
+- 🏆 Maintaining coding streaks
+- 🚀 Building impactful projects
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kamlesh-kumar-b70279384/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:kamlesh1285ky@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
+# ⚡ Tech Arsenal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/><br>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,fastapi"/><br>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode"/><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 🛡️ RakshaKavach
+
+AI-powered rural healthcare platform built during Decode SIH.
+
+> FastAPI • React • PostgreSQL
+
+---
+
+## 🍔 FlavorFusion
+
+Modern Full Stack Food Ordering Platform.
+
+> Next.js • NestJS • PostgreSQL
+
+---
+
+## 🎓 Student Management System
+
+React + Vite application.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -65,7 +92,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak
 
 <p align="center">
 
@@ -75,7 +102,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
@@ -95,41 +122,48 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛡️ RakshaKavach
-AI-powered rural healthcare platform built during Decode SIH.
-
-**Tech:** FastAPI • React • PostgreSQL
-
----
-
-### 🍔 FlavorFusion
-Full Stack Food Ordering Platform.
-
-**Tech:** Next.js • NestJS • PostgreSQL
-
----
-
-### 🎓 Student Management System
-React + Vite project for managing student records.
-
----
-
-# 🎯 Coding Profiles
-
-- 💻 LeetCode: https://leetcode.com/u/kamlesh1285/
-- 🏅 CodeChef: https://www.codechef.com/users/k_25_cse_0139
-
----
-
-# ⚡ Fun Fact
-
-> *"Consistency beats intensity — one commit at a time."*
+# 💻 Coding Profiles
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<a href="https://leetcode.com/u/kamlesh1285/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/k_25_cse_0139">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
 </p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kamlesh-kumar-b70279384/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kamlesh1285ky@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Consistency beats intensity."**
+
+</p>
+
+
+
 
 <!--
 **kamlesh1285/kamlesh1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
