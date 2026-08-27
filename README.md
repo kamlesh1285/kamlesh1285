@@ -118,8 +118,8 @@ React + Vite project for managing student records.
 
 # 🎯 Coding Profiles
 
-- 💻 LeetCode: https://leetcode.com/YOUR_USERNAME
-- 🏅 CodeChef: https://www.codechef.com/users/YOUR_USERNAME
+- 💻 LeetCode: https://leetcode.com/u/kamlesh1285/
+- 🏅 CodeChef: https://www.codechef.com/users/k_25_cse_0139
 
 ---
 
